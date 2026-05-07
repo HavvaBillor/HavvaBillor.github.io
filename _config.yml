@@ -62,30 +62,30 @@ author:
   avatar : "/assets/images/picture.jpg"
   bio    : "Digital Design and Verification Engineer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:havvabillorx@gmail.com"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/havvabillor/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/HavvaBillor"
    # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
      # url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:havvabillorx@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/HavvaBillor"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/havvabillor/"
 
 defaults:
   # _posts
