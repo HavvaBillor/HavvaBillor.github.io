@@ -7,5 +7,5 @@ author_profile: true
 ---
 
 **Welcome to my website!** 
----
+<br>
 I am an Electrical and Electronics Engineer, graduated from Istanbul University-Cerrahpasa in 2025. Explore my projects and journey here.
