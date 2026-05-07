@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m a Digital Design and Verification Engineer with a real passion for building high-performance FPGA systems. Most of my work revolves around hardware description languages and modern verification, specifically using VHDL and SystemVerilog.
+While working on projects like my FPGA-based Digital Oscilloscope, I’ve gained a lot of hands-on experience in RTL design, signal processing, and hardware-software integration. I really enjoy the challenge of taking a complex technical problem and turning it into an efficient, scalable solution through smart digital logic design.
+I’m always looking to grow professionally and I make it a point to stay updated with the latest shifts in the semiconductor industry and verification methodologies.
